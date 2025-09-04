@@ -25,7 +25,7 @@ cat << EOM > /var/www/html/index.html
 </head>
 <body>
     <h1>HashiCorp</h1>
-    <img src="https://www.hashicorp.com/resources/img/hashicorp-logo.svg" alt="HashiCorp Logo" />
+    <img src="https://cdn-icons-png.flaticon.com/512/169/169052.png" alt="HashiCorp Logo" />
     <p>HashiCorp 공식 로고 이미지가 포함된 예제 페이지입니다.</p>
 </body>
 </html>
